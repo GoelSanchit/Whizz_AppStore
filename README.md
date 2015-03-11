@@ -6,9 +6,14 @@ Our main objective is to provide the functionalities of a Mobile Software Distri
 
 This is just a first step in the path of creating a market focused mobile application. We guys are looking forward to establish a start-up and MobiCom gives us just the right opportunity. With such a platform we are sure to get a boost in our efforts and endeavours.  
 We conclude here by focusing on some of the key benefits of Whizz:
+
 •	Whizz helps in reducing the RAM problem and that too, drastically.
+
 •	‘Download one, access all’ is a unique feature of Whizz.
+
 •	No need of downloading a particular app.
+
 •	Works equally well on slow connections.
+
 •	A lot of time is saved since the user need not wait for the downloading to complete, then there is installation too. When others will be waiting for their app to be downloaded and installed, a Whizz user can simply access the app by ‘just a tap’.
 
