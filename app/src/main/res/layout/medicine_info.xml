@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar"></include>
+
+    <AutoCompleteTextView
+        android:id="@+id/act"
+        style="@style/CodeFont"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#fff"
+        android:ems="20"
+        android:textColor="#642626"
+        android:textStyle="bold"
+        android:layout_below="@+id/app_bar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/button2"
+        android:gravity="top"
+        android:scrollbars="vertical"
+        android:text="Disclaimer - The contents of this application are for informational purposes only. Always seek the advice of a qualified physician or health provider for medical diagnosis and treatment."
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_below="@+id/button1" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#3F51B5"
+        android:text="Info Medicine"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_below="@+id/act"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Substitute"
+        android:background="#3F51B5"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/button1"
+        android:layout_alignRight="@+id/act"
+        android:layout_alignEnd="@+id/act" />
+
+</RelativeLayout>

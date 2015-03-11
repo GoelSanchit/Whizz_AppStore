@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medicina Store</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="next">TouchProcessingActivity</string>
+     <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="search_movies">Search Movies</string>
+
+    <string-array name="colorList">
+        <item >fever</item>
+        <item >chickenpox</item>
+        <item >muscle pain</item>
+        <item >cold</item>
+        <item >headache</item>
+        <item >pimples</item>
+        <item >anemia</item>
+        <item >bronchitis</item>
+        <item >cholera</item>
+        <item >dengue</item>
+        <item >diabetes</item>
+        <item >dehydration</item>
+        <item >diarrhea</item>
+        <item >vomiting</item>
+        <item >fits</item>
+        <item >food allergy</item>
+        <item >fracture</item>
+        <item >bleeding gums</item>
+        <item >hair fall</item>
+        <item >piles</item>
+        <item >height</item>
+        <item >heat stroke</item>
+        <item >hepatitis A</item>
+        <item >hepatitis B</item>
+        <item >hepatitis C</item>
+        <item >blood pressure</item>
+        <item >heart attack</item>
+        <item >high cholesterol</item>
+        <item >back injuries</item>
+        <item >itching</item>
+        <item >jaundice</item>
+        <item >kala-ajar</item>
+        <item >kidney stones</item>
+        <item >malaria</item>
+        <item >menstrual periods</item>
+        <item >mouth ulcers</item>
+        <item >neck pain</item>
+        <item >nose bleed</item>
+        <item >obesity</item>
+        <item >polio</item>
+        <item>tuberculosis</item>
+        <item>rabies</item>
+        <item>rock fever</item>
+        <item>wrinkles</item>
+        <item>skin disease(dermatology)</item>
+        <item>smoking and tobacco</item>
+        <item>cough</item>
+
+    </string-array>
+
+    <string-array name="diseaseList">
+        <item>achondroplasia</item>
+        <item>acne</item>
+        <item>albinism</item>
+        <item>alcoholic hepatitis</item>
+        <item>allergy</item>
+        <item>alopecia</item>
+        <item>alzheimer\'s</item>
+        <item>amblyopia</item>
+        <item>amebiasis</item>
+        <item>anemia</item>
+        <item>anorexia</item>
+        <item>anosmia</item>
+        <item>anotia</item>
+        <item>anthrax</item>
+        <item>appendicitis</item>
+        <item>apraxia</item>
+        <item>argyria</item>
+        <item>arthritis</item>
+        <item>aseptic meningitis</item>
+        <item>asthenia</item>
+        <item>asthma</item>
+        <item>atherosclerosis</item>
+        <item>athetosis</item>
+        <item>atrophy</item>
+        <item>bacterial meningitis</item>
+        <item>beriberi</item>
+        <item>black death</item>
+        <item>botulism</item>
+        <item>breast cancer</item>
+        <item>bronchitis</item>
+        <item>brucellosis</item>
+        <item>bubonic plague</item>
+        <item>bunion</item>
+        <item>cancer</item>
+        <item>carbon monoxide poisoning</item>
+        <item>cherubism</item>
+        <item>chickenpox</item>
+        <item>cholera</item>
+        <item>colitis</item>
+        <item>common cold</item>
+        <item>cow pox</item>
+        <item>diabetes</item>
+        <item>dengue</item>
+        <item>diphtheria</item>
+        <item>dehydration</item>
+        <item>ear infection</item>
+        <item>ebola</item>
+        <item>epilepsy</item>
+        <item>fibromyalgia</item>
+        <item>foodborne illness</item>
+        <item>gangrene</item>
+        <item>goitre</item>
+        <item>gonorrhea</item>
+        <item>heart disease</item>
+        <item>hepatitis A</item>
+        <item>hepatitis B</item>
+        <item>hepatitis C</item>
+        <item>hepatitis D</item>
+        <item>hepatitis E</item>
+        <item>histiocytosis</item>
+        <item>hiv</item>
+        <item>hypermetropia</item>
+        <item>hypotonia</item>
+        <item>infertility</item>
+        <item>influenza</item>
+        <item>iritis</item>
+        <item>jaundice</item>
+        <item>keloids</item>
+        <item>kuru</item>
+        <item>lead poisoning</item>
+        <item>leukemia</item>
+        <item>lung cancer</item>
+        <item>malaria</item>
+        <item>measles</item>
+        <item>melanoma</item>
+        <item>migraine</item>
+        <item>mumps</item>
+        <item>myopia</item>
+        <item>necrotizing fasciitis</item>
+        <item>night blindness</item>
+        <item>obesity</item>
+        <item>osteoarthritis</item>
+        <item>osteoporosis</item>
+        <item>otitis</item>
+        <item>paratyphoid fever</item>
+        <item>pertussis</item>
+        <item>plague</item>
+        <item>porphyria</item>
+        <item>pilia</item>
+        <item>pneumonia</item>
+        <item>Q fever</item>
+        <item>rabies</item>
+        <item>repetitive strain injury</item>
+        <item>rickets</item>
+        <item>rubella</item>
+        <item>rheumatic fever</item>
+        <item>scabies</item>
+        <item>scarlet fever</item>
+        <item>scurvy</item>
+        <item>small pox</item>
+        <item>stomach flu</item>
+        <item>stomach ulcers</item>
+        <item>swine influenza</item>
+        <item>silicosis</item>
+        <item>tennis elbow</item>
+        <item>tetanus</item>
+        <item>thrush</item>
+        <item>tooth decay</item>
+        <item>tuberculosis</item>
+        <item>typhoid fever</item>
+        <item>tumor</item>
+        <item>ulcers</item>
+        <item>uremia</item>
+        <item>uveitis</item>
+        <item>varicella</item>
+        <item>viral fever</item>
+        <item>viral meningitis</item>
+        <item>warts</item>
+        <item>yellow fever</item>
+
+    </string-array>
+
+    <string-array name="medicine">
+
+        <item >acetaminophen</item>
+        <item >aspirin</item>
+        <item >bethanechol</item>
+        <item >ibuprofen</item>
+        <item >ketoprofen</item>
+        <item >naproxen</item>
+        <item >acetazolamide</item>
+        <item >aluminum hydroxide and magnesium hydroxide</item>
+        <item >amitriptyline</item>
+        <item >amlodipine</item>
+        <item >amoxicillin</item>
+        <item >artemether</item>
+        <item >artesunate</item>
+        <item >aztreonam</item>
+        <item >bacampicillin</item>
+        <item >balofloxacin</item>
+        <item >benzonatate</item>
+        <item >buclizine</item>
+        <item >budesonide</item>
+        <item >bulaquine</item>
+        <item >buprenorphine</item>
+        <item >cefaclor</item>
+        <item >cefadroxil</item>
+        <item >cefetamet</item>
+        <item >cefixime</item>
+        <item >cefotaxime</item>
+        <item >ceftriaxone</item>
+        <item >cephalexin</item>
+        <item >chloroquine</item>
+        <item >chlorpheniramine</item>
+        <item >codeine</item>
+        <item >colistimethate injection</item>
+        <item >cyclobenzaprine</item>
+        <item >dicloxacillin</item>
+        <item >diltiazem</item>
+        <item >divalproex</item>
+        <item >doxycycline</item>
+        <item >drotaverine</item>
+        <item >duloxetine</item>
+        <item >ergotamine sublingual</item>
+        <item >famotidine</item>
+        <item >fenoverine</item>
+        <item >flunarizine</item>
+        <item >guaifenesin</item>
+        <item >homatropine</item>
+        <item >hyoscyamine</item>
+        <item >indomethacin</item>
+        <item >irbesartan</item>
+        <item >lansoprazole</item>
+        <item >levodropropizine</item>
+        <item >levofloxacin</item>
+        <item >mebeverine</item>
+        <item >mefenamic acid</item>
+        <item >mefloquine</item>
+        <item >melatonin</item>
+        <item >mepacrine</item>
+        <item >metoprolol</item>
+        <item >minocycline</item>
+        <item >moxifloxacin</item>
+        <item >nabumetone</item>
+        <item >naratriptan</item>
+        <item >nebivolol</item>
+        <item >nefopam</item>
+        <item >nimesulide</item>
+        <item >nitrofurantoin</item>
+        <item >norfloxacin</item>
+        <item >noscapine</item>
+        <item >ofloxacin</item>
+        <item >olmesartan</item>
+        <item >oxymetazoline</item>
+        <item >pantoprazole</item>
+        <item >paracetamol</item>
+        <item >pethidine</item>
+        <item >proguanil</item>
+        <item >pseudoephedrine</item>
+        <item >rabeprazole</item>
+        <item >rizatriptan</item>
+        <item >sparfloxacin</item>
+        <item >spironolactone</item>
+        <item >sumatriptan</item>
+        <item >tenoxicam</item>
+        <item >timolol ophthalmic</item>
+        <item >tolfenamic acid</item>
+        <item >triprolidine</item>
+    </string-array>
+
+</resources>
