@@ -4,7 +4,7 @@ Our aim is to create an App Store which provides an interface to the user to acc
 Our main objective is to provide the functionalities of a Mobile Software Distribution Platform, bundled up with some innovative ideas & features that would take the mobile experience to a whole new level for sure.
 
 
-This is just a first step in the path of creating a market focused mobile application. We guys are looking forward to establish a start-up and MobiCom gives us just the right opportunity. With such a platform we are sure to get a boost in our efforts and endeavours.  
+This is just a first step in the path of creating a market focused mobile application. We guys are looking forward to establish a start-up and IEF gives us just the right opportunity. With such a platform we are sure to get a boost in our efforts and endeavours.  
 We conclude here by focusing on some of the key benefits of Whizz:
 
 •	Whizz helps in reducing the RAM problem and that too, drastically.
