@@ -17,3 +17,17 @@ We conclude here by focusing on some of the key benefits of Whizz:
 
 •	A lot of time is saved since the user need not wait for the downloading to complete, then there is installation too. When others will be waiting for their app to be downloaded and installed, a Whizz user can simply access the app by ‘just a tap’.
 
+
+Copyright 2014 Sanchit Goel- https://github.com/GoelSanchit/Whizz_AppStore
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
