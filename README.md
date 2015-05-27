@@ -9,7 +9,7 @@ We conclude here by focusing on some of the key benefits of Whizz:
 
 •	Whizz helps in reducing the RAM problem and that too, drastically.
 
-•	‘Download one, access all’ is a unique feature of Whizz.
+•	‘Download one, access all apps’ is a unique feature of Whizz.
 
 •	No need of downloading a particular app.
 
