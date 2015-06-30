@@ -1,4 +1,4 @@
-package corp.mahisan.
+package corp.mahisan.med
 
 import android.app.ProgressDialog;
 import android.content.Intent;
