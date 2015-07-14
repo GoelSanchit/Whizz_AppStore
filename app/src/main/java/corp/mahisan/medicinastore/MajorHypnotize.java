@@ -1,7 +1,7 @@
 package corp.mahisan.medicinastore;
 
 import android.app.Activity;
-import android.content.Intent
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
