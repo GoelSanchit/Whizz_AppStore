@@ -1,6 +1,6 @@
 package corp.mahisan.medicinastore;
 
-import android.app.ProgressDialog
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
