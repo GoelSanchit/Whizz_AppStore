@@ -24,7 +24,7 @@ public class Login extends ActionBarActivity {
 
     Button buttonLogin;
     Toolbar toolbar;
-    EditText txtUsername, txtPassword;
+    EditText txtUsername, txtPassword
 
     // User Session Manager Class
     UserSession session;
