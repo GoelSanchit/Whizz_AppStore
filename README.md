@@ -7,7 +7,7 @@ Our main objective is to provide the functionalities of a Mobile Software Distri
 This is just a first step in the path of creating a market focused mobile application. We guys are looking forward to establish a start-up and IEF gives us just the right opportunity. With such a platform we are sure to get a boost in our efforts and endeavours.  
 We conclude here by focusing on some of the key benefits of Whizz:
 
-•	Whizz helps in reducing the RAM problem and that too, drastically.
+•	Whizz helps in reducing the RAM problem and that too, drastically..
 
 •	‘Download one, access all apps’ is a unique feature of Whizz.
 
