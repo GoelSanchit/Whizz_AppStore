@@ -1,4 +1,4 @@
-package corp.mahisan.medicinastore;
+package corp.mahisan.medicinastore
 
 import android.content.Context;
 import android.content.Intent;
