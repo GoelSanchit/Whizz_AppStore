@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "corp.mahisan.medicinastore"
-        minSdkVersion 15
-        targetSdkVersion 21
+        minSdkVersion 14
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
