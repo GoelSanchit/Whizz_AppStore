@@ -10,6 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
 public class CustomAdapter1 extends BaseAdapter{
     String [] result,desc;
     Context context;
