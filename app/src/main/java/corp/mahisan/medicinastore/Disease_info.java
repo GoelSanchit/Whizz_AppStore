@@ -133,6 +133,7 @@ public class Disease_info extends ActionBarActivity implements View.OnClickListe
             //iv.setImageResource(R.drawable.allergy);
         }
 
+
         else if("alopecia".equals(bucket)){
             tv.setText("Baldness (also known as Alopecia) is when someone has no hair on his or her head. Sometimes this is inherited from parents or grandparents, or it can be done on purpose if somebody cuts off all their hair off. Some monks or South Korean soldiers in the army do this.\nBaldness is most often caused by a medical condition known as Androgenic alopecia. This is found in humans, as well as in some animals. When it occurs, it will mean that those affected will permanently lose some (or all) of their hair. Since some of the factors are linked to the genes on the chromosome, the condition can be seen more often with men, than with women.");
             //iv.setImageResource(R.drawable.alopecia);
